@@ -1,0 +1,2 @@
+*.pb binary
+/passport_mrz_reader/deep_learning/training_sets* binary
