@@ -158,8 +158,3 @@ dmypy.json
 
 # Ignore report
 /passport_mrz_reader/test_suite/report.tsv
-
-# Ignore training images
-/data/images/test/
-/data/images/
-/data/images/characters_preprocessed_th7/
